@@ -1,3 +1,3 @@
 # ☀ Analysis of Brisbane Photovoltaic Installation Data
 
-This repo contains all of the code and analysis relating to the excercise. I will iteratively add code and thoughts, then finally summarise my answers in the readme file. I think it makes the most sense to do this excercise in a Jupyter Notebook since python is my preferred language and also so that you can see my working and I can embed commentary as markdown.
+This repo contains all of the code and analysis relating to the excercise. My solutions can be found in [Exercise.ipynb](https://github.com/lukekh/SolarExercise/blob/main/Exercise.ipynb) and I've left my scratched workings in [Scratch_Analysis.ipynb](https://github.com/lukekh/SolarExercise/blob/main/Scratch_Analysis.ipynb) if you wanted to look at some of the things I printed out to get my head around the data.
